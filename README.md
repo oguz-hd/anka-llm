@@ -1,4 +1,4 @@
-# Gemini AI Asistanı
+# Gemini AI Asistanı - anka-LLM
 
 Bu proje, React ve Node.js ile geliştirilmiş bir yapay zeka asistanıdır.
 
